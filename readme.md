@@ -20,7 +20,7 @@ console.log(funct() == undefined);
 ```
 
 ## Installation
-Download [overload.min.js](./build/overload.js) and place it in your project's root directory
+Download [overload.min.js](./build/overload.min.js) and place it in your project's root directory
 ```html
 <script type='text/javascript' src='overload.min.js'></script>
 ```
