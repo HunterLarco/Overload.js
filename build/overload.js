@@ -1,3 +1,12 @@
+/* Overload.js 1.0.0
+ * -----------------
+ *
+ * (c) 2015 Hunter Larco <larcolabs.com>
+ * Overload.js may be freely distributed under the MIT license.
+ * For all details and documentation:
+ * <https://github.com/HunterLarco/Overload.js>
+*/
+
 (function(){
 	
 	var Overload = new Object();
